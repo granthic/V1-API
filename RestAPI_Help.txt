@@ -1,0 +1,3 @@
+﻿rest-1.v1/Data/Member/175026?op=Inactivate //Inactivate User
+rest-1.v1/Data/Member?sel=Name,Username,Email&where=Email='EParish@healthfirst.org' //Search user by Email ID
+/rest-1.v1/Data/Member // Create New Member
